@@ -1,4 +1,4 @@
-
+tryi = 0
 cnt = 0
 sum = 0
 while True:
